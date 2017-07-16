@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>raw-transaction-web3j</name>
-	<description>Demo application for creating raw ransactions</description>
+	<description>Demo application for creating raw transactions</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -25,10 +25,6 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
