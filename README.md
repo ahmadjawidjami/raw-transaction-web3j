@@ -5,3 +5,13 @@
 ```sh
 $ geth --rpcapi personal,db,eth,net,web3 --rpc --testnet
 ```
+## How to run:
+### 1. With Intellij
+- Open pom.xml as a project using IntelliJ
+- Run Web3jSolidiyApplication class using Intellij
+
+### 2. Using maven:
+- Go to the project root directory and run the command:
+```sh
+$ mvn spring-boot:run
+```
